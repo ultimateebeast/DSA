@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/ultimateebeast/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ultimateebeast/Leetcode/tree/master/0041-first-missing-positive) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ultimateebeast/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2561-number-of-distinct-averages](https://github.com/ultimateebeast/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ultimateebeast/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/ultimateebeast/Leetcode/tree/master/0041-first-missing-positive) |
 | [0200-number-of-islands](https://github.com/ultimateebeast/Leetcode/tree/master/0200-number-of-islands) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ultimateebeast/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2561-number-of-distinct-averages](https://github.com/ultimateebeast/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ultimateebeast/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ultimateebeast/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ultimateebeast/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/ultimateebeast/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ultimateebeast/Leetcode/tree/master/0018-4sum) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [2561-number-of-distinct-averages](https://github.com/ultimateebeast/Leetcode/tree/master/2561-number-of-distinct-averages) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -89,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/ultimateebeast/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ultimateebeast/Leetcode/tree/master/0018-4sum) |
+| [2561-number-of-distinct-averages](https://github.com/ultimateebeast/Leetcode/tree/master/2561-number-of-distinct-averages) |
 <!---LeetCode Topics End-->
