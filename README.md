@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ultimateebeast/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2448-count-number-of-bad-pairs](https://github.com/ultimateebeast/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/ultimateebeast/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2561-number-of-distinct-averages](https://github.com/ultimateebeast/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/ultimateebeast/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ultimateebeast/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ultimateebeast/Leetcode/tree/master/0029-divide-two-integers) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/ultimateebeast/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Binary Search
 |  |
 | ------- |
