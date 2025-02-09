@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0164-maximum-gap](https://github.com/ultimateebeast/Leetcode/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/ultimateebeast/Leetcode/tree/master/0200-number-of-islands) |
 | [0948-sort-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0948-sort-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/ultimateebeast/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ultimateebeast/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2448-count-number-of-bad-pairs](https://github.com/ultimateebeast/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ultimateebeast/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
