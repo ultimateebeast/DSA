@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/ultimateebeast/Leetcode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ultimateebeast/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ultimateebeast/Leetcode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/ultimateebeast/Leetcode/tree/master/0046-permutations) |
 | [0164-maximum-gap](https://github.com/ultimateebeast/Leetcode/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/ultimateebeast/Leetcode/tree/master/0200-number-of-islands) |
 | [0948-sort-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0948-sort-an-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ultimateebeast/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/ultimateebeast/Leetcode/tree/master/0046-permutations) |
 ## Bit Manipulation
 |  |
 | ------- |
