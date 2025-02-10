@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ultimateebeast/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ultimateebeast/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ultimateebeast/Leetcode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ultimateebeast/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ultimateebeast/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ultimateebeast/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ultimateebeast/Leetcode/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/ultimateebeast/Leetcode/tree/master/0148-sort-list) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ultimateebeast/Leetcode/tree/master/0011-container-with-most-water) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ultimateebeast/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 ## Stack
 |  |
