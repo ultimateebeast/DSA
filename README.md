@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ultimateebeast/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/ultimateebeast/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ultimateebeast/Leetcode/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/ultimateebeast/Leetcode/tree/master/0065-valid-number) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ultimateebeast/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ultimateebeast/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ultimateebeast/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
