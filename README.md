@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/ultimateebeast/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ultimateebeast/Leetcode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/ultimateebeast/Leetcode/tree/master/0133-clone-graph) |
+| [0347-top-k-frequent-elements](https://github.com/ultimateebeast/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ultimateebeast/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ultimateebeast/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ultimateebeast/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/ultimateebeast/Leetcode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/ultimateebeast/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ultimateebeast/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/ultimateebeast/Leetcode/tree/master/1036-rotting-oranges) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ultimateebeast/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ultimateebeast/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ultimateebeast/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/ultimateebeast/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Linked List
@@ -101,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/ultimateebeast/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ultimateebeast/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ultimateebeast/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ultimateebeast/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ultimateebeast/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0948-sort-an-array) |
 | [2434-design-a-number-container-system](https://github.com/ultimateebeast/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Merge Sort
@@ -164,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0164-maximum-gap](https://github.com/ultimateebeast/Leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/ultimateebeast/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ultimateebeast/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0948-sort-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/ultimateebeast/Leetcode/tree/master/2561-number-of-distinct-averages) |
 ## String Matching
@@ -187,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ultimateebeast/Leetcode/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/ultimateebeast/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -244,4 +251,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ultimateebeast/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
