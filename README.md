@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ultimateebeast/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ultimateebeast/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2573-remove-nodes-from-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/ultimateebeast/Leetcode/tree/master/0060-permutation-sequence) |
+| [2573-remove-nodes-from-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Hash Function
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ultimateebeast/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ultimateebeast/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2573-remove-nodes-from-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3447-clear-digits](https://github.com/ultimateebeast/Leetcode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
@@ -256,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ultimateebeast/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
