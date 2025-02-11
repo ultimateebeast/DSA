@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0535-encode-and-decode-tinyurl](https://github.com/ultimateebeast/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ultimateebeast/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ultimateebeast/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ultimateebeast/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ultimateebeast/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/ultimateebeast/Leetcode/tree/master/3447-clear-digits) |
 ## Array
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ultimateebeast/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ultimateebeast/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ultimateebeast/Leetcode/tree/master/3447-clear-digits) |
 ## Two Pointers
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ultimateebeast/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ultimateebeast/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ultimateebeast/Leetcode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
