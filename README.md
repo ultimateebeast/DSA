@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ultimateebeast/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ultimateebeast/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/ultimateebeast/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/ultimateebeast/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ultimateebeast/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/ultimateebeast/Leetcode/tree/master/3447-clear-digits) |
 ## Array
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ultimateebeast/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ultimateebeast/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ultimateebeast/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/ultimateebeast/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2448-count-number-of-bad-pairs](https://github.com/ultimateebeast/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ultimateebeast/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ultimateebeast/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
