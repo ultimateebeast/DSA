@@ -153,11 +153,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ultimateebeast/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/ultimateebeast/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ultimateebeast/Leetcode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ultimateebeast/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/ultimateebeast/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ultimateebeast/Leetcode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/ultimateebeast/Leetcode/tree/master/1036-rotting-oranges) |
@@ -276,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ultimateebeast/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ultimateebeast/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
