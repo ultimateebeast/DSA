@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2128-reverse-prefix-of-word](https://github.com/ultimateebeast/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ultimateebeast/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ultimateebeast/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ultimateebeast/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/ultimateebeast/Leetcode/tree/master/3447-clear-digits) |
 ## Array
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ultimateebeast/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ultimateebeast/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ultimateebeast/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ultimateebeast/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ultimateebeast/Leetcode/tree/master/3447-clear-digits) |
 ## Two Pointers
