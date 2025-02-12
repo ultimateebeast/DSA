@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ultimateebeast/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ultimateebeast/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0147-insertion-sort-list](https://github.com/ultimateebeast/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ultimateebeast/Leetcode/tree/master/0148-sort-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/ultimateebeast/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/ultimateebeast/Leetcode/tree/master/0060-permutation-sequence) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Hash Function
