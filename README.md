@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/ultimateebeast/Leetcode/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/ultimateebeast/Leetcode/tree/master/0060-permutation-sequence) |
 | [0268-missing-number](https://github.com/ultimateebeast/Leetcode/tree/master/0268-missing-number) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/ultimateebeast/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ultimateebeast/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2448-count-number-of-bad-pairs](https://github.com/ultimateebeast/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/ultimateebeast/Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0065-valid-number](https://github.com/ultimateebeast/Leetcode/tree/master/0065-valid-number) |
 | [0179-largest-number](https://github.com/ultimateebeast/Leetcode/tree/master/0179-largest-number) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ultimateebeast/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/ultimateebeast/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ultimateebeast/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ultimateebeast/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/ultimateebeast/Leetcode/tree/master/1894-merge-strings-alternately) |
