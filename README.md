@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/ultimateebeast/Leetcode/tree/master/0148-sort-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ultimateebeast/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1765-merge-in-between-linked-lists](https://github.com/ultimateebeast/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ultimateebeast/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
