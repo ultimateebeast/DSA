@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0065-valid-number](https://github.com/ultimateebeast/Leetcode/tree/master/0065-valid-number) |
 | [0179-largest-number](https://github.com/ultimateebeast/Leetcode/tree/master/0179-largest-number) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ultimateebeast/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+| [0874-backspace-string-compare](https://github.com/ultimateebeast/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ultimateebeast/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ultimateebeast/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ultimateebeast/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/ultimateebeast/Leetcode/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ultimateebeast/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ultimateebeast/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ultimateebeast/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/ultimateebeast/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ultimateebeast/Leetcode/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0874-backspace-string-compare](https://github.com/ultimateebeast/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ultimateebeast/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/ultimateebeast/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/ultimateebeast/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ultimateebeast/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/ultimateebeast/Leetcode/tree/master/0155-min-stack) |
+| [0874-backspace-string-compare](https://github.com/ultimateebeast/Leetcode/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ultimateebeast/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/ultimateebeast/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
