@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/ultimateebeast/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0147-insertion-sort-list](https://github.com/ultimateebeast/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ultimateebeast/Leetcode/tree/master/0148-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ultimateebeast/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/ultimateebeast/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
