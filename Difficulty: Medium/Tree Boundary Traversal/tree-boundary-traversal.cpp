@@ -108,25 +108,38 @@ class Node {
 class Solution {
   public:
     vector<int> boundaryTraversal(Node *root) {
-        // code here
         vector<int>res;
-        if(root == nullptr) return res;
+        if (root == nullptr) return res;
+        
+        
+        
         if(!isLeaf(root)) res.push_back(root->data);
+        
         leftL(root,res);
-        leafL(root,res);
-        rightL(root,res);
+        leaf(root,res);
+        rightR(root,res);
         
         return res;
     }
+    
     private:
-        bool isLeaf(Node *root) {
+        bool isLeaf(Node* root){
             return (!root->left && !root->right);
+        }
         
+        void leftL(Node* root , vector<int>&res){
+            Node* curr = root->left;
+            
+            while(curr){
+                if(!isLeaf(curr)) res.push_back(curr->data);
+                if(curr->left) curr = curr->left;
+                else curr = curr->right;
+            }
+        }
         
-        void rightL(Node* root,vector<int>&res){
+        void rightR(Node* root , vector<int>&res){
             Node* curr = root->right;
             vector<int>temp;
-            
             while(curr){
                 if(!isLeaf(curr)) temp.push_back(curr->data);
                 if(curr->right) curr = curr->right;
@@ -138,24 +151,11 @@ class Solution {
             }
         }
         
-        void leftL(Node* root,vector<int>&res){
-            Node* curr = root->left;
-            while(curr){
-                if(!isLeaf(curr)) res.push_back(curr->data);
-                if(curr->left)curr = curr->left;
-                else curr = curr->right;
-            }
-        }
-        
-        void leafL(Node* root, vector<int>&res){
-        
-            if(isLeaf(root)){
-                res.push_back(root->data);
-                return;
-            }
+        void leaf(Node* root,vector<int>&res){
+            if(isLeaf(root)) res.push_back(root->data);
             
-            if(root->left) leafL(root->left,res);
-            if(root->right) leafL(root->right,res);
+            if(root->left) leaf(root->left,res);
+            if(root->right) leaf(root->right,res);
         }
 };
 
