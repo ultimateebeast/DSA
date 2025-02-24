@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/ultimateebeast/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ultimateebeast/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/ultimateebeast/Leetcode/tree/master/0733-flood-fill) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/ultimateebeast/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0948-sort-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/ultimateebeast/Leetcode/tree/master/1036-rotting-oranges) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ultimateebeast/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ultimateebeast/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/ultimateebeast/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ultimateebeast/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/ultimateebeast/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Recursion
 |  |
 | ------- |
