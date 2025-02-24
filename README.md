@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1752-arithmetic-subarrays](https://github.com/ultimateebeast/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ultimateebeast/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ultimateebeast/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/ultimateebeast/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ultimateebeast/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2448-count-number-of-bad-pairs](https://github.com/ultimateebeast/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ultimateebeast/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ultimateebeast/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1752-arithmetic-subarrays](https://github.com/ultimateebeast/Leetcode/tree/master/1752-arithmetic-subarrays) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/ultimateebeast/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ultimateebeast/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2561-number-of-distinct-averages](https://github.com/ultimateebeast/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ultimateebeast/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ultimateebeast/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ultimateebeast/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ultimateebeast/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/ultimateebeast/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ultimateebeast/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
