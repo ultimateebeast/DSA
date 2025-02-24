@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0882-peak-index-in-a-mountain-array](https://github.com/ultimateebeast/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/ultimateebeast/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/ultimateebeast/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ultimateebeast/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ultimateebeast/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ultimateebeast/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/ultimateebeast/Leetcode/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ultimateebeast/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ultimateebeast/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/ultimateebeast/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ultimateebeast/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Breadth-First Search
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ultimateebeast/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ultimateebeast/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ultimateebeast/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/ultimateebeast/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ultimateebeast/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Union Find
 |  |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/ultimateebeast/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ultimateebeast/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ultimateebeast/Leetcode/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/ultimateebeast/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/ultimateebeast/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ultimateebeast/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ultimateebeast/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/ultimateebeast/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ultimateebeast/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ultimateebeast/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2737-row-with-maximum-ones](https://github.com/ultimateebeast/Leetcode/tree/master/2737-row-with-maximum-ones) |
