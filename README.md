@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/ultimateebeast/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ultimateebeast/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/ultimateebeast/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1916-find-center-of-star-graph](https://github.com/ultimateebeast/Leetcode/tree/master/1916-find-center-of-star-graph) |
 ## Quickselect
 |  |
 | ------- |
