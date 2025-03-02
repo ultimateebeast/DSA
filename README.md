@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2448-count-number-of-bad-pairs](https://github.com/ultimateebeast/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ultimateebeast/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2561-number-of-distinct-averages](https://github.com/ultimateebeast/Leetcode/tree/master/2561-number-of-distinct-averages) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ultimateebeast/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ultimateebeast/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ultimateebeast/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ultimateebeast/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2561-number-of-distinct-averages](https://github.com/ultimateebeast/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/ultimateebeast/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ultimateebeast/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ultimateebeast/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ultimateebeast/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2737-row-with-maximum-ones](https://github.com/ultimateebeast/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ultimateebeast/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2551-apply-operations-to-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/ultimateebeast/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/ultimateebeast/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ultimateebeast/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ultimateebeast/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Depth-First Search
 |  |
