@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2649-count-total-number-of-colored-cells](https://github.com/ultimateebeast/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ultimateebeast/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/ultimateebeast/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ultimateebeast/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ultimateebeast/Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ultimateebeast/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/ultimateebeast/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ultimateebeast/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ultimateebeast/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ultimateebeast/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ultimateebeast/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ultimateebeast/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3227-find-missing-and-repeated-values](https://github.com/ultimateebeast/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ultimateebeast/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ultimateebeast/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/ultimateebeast/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ultimateebeast/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ultimateebeast/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2737-row-with-maximum-ones](https://github.com/ultimateebeast/Leetcode/tree/master/2737-row-with-maximum-ones) |
+| [3227-find-missing-and-repeated-values](https://github.com/ultimateebeast/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
