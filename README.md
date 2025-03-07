@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/ultimateebeast/Leetcode/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ultimateebeast/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ultimateebeast/Leetcode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/ultimateebeast/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ultimateebeast/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/ultimateebeast/Leetcode/tree/master/1036-rotting-oranges) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/ultimateebeast/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ultimateebeast/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ultimateebeast/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/ultimateebeast/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0948-sort-an-array) |
 | [2434-design-a-number-container-system](https://github.com/ultimateebeast/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ultimateebeast/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/ultimateebeast/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ultimateebeast/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/ultimateebeast/Leetcode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/ultimateebeast/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ultimateebeast/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/ultimateebeast/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/ultimateebeast/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/ultimateebeast/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ultimateebeast/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/ultimateebeast/Leetcode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/ultimateebeast/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ultimateebeast/Leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/ultimateebeast/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/ultimateebeast/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/ultimateebeast/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ultimateebeast/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ultimateebeast/Leetcode/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/ultimateebeast/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/ultimateebeast/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/ultimateebeast/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Matrix
@@ -345,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/ultimateebeast/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ultimateebeast/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ultimateebeast/Leetcode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/ultimateebeast/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/ultimateebeast/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ultimateebeast/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ultimateebeast/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -447,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/ultimateebeast/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ultimateebeast/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ultimateebeast/Leetcode/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/ultimateebeast/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ultimateebeast/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1023-time-based-key-value-store](https://github.com/ultimateebeast/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ultimateebeast/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
