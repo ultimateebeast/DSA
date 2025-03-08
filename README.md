@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ultimateebeast/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/ultimateebeast/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ultimateebeast/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ultimateebeast/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3396-valid-word](https://github.com/ultimateebeast/Leetcode/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ultimateebeast/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ultimateebeast/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ultimateebeast/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ultimateebeast/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ultimateebeast/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Trie
 |  |
 | ------- |
