@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2448-count-number-of-bad-pairs](https://github.com/ultimateebeast/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/ultimateebeast/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/ultimateebeast/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ultimateebeast/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ultimateebeast/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ultimateebeast/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ultimateebeast/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2448-count-number-of-bad-pairs](https://github.com/ultimateebeast/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ultimateebeast/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ultimateebeast/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/ultimateebeast/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/ultimateebeast/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/ultimateebeast/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
