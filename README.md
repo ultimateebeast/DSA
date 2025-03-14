@@ -610,4 +610,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ultimateebeast/Leetcode/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [3816-dna-pattern-recognition](https://github.com/ultimateebeast/Leetcode/tree/master/3816-dna-pattern-recognition) |
 <!---LeetCode Topics End-->
