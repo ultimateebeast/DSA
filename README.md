@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0060-permutation-sequence](https://github.com/ultimateebeast/Leetcode/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/ultimateebeast/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/ultimateebeast/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/ultimateebeast/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ultimateebeast/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ultimateebeast/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ultimateebeast/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/ultimateebeast/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ultimateebeast/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ultimateebeast/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/ultimateebeast/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ultimateebeast/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ultimateebeast/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ultimateebeast/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ultimateebeast/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/ultimateebeast/Leetcode/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/ultimateebeast/Leetcode/tree/master/0231-power-of-two) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Hash Function
 |  |
