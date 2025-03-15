@@ -616,5 +616,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/ultimateebeast/Leetcode/tree/master/0182-duplicate-emails) |
 | [3816-dna-pattern-recognition](https://github.com/ultimateebeast/Leetcode/tree/master/3816-dna-pattern-recognition) |
 <!---LeetCode Topics End-->
