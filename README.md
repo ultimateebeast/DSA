@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/ultimateebeast/Leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/ultimateebeast/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ultimateebeast/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0941-sort-array-by-parity](https://github.com/ultimateebeast/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/ultimateebeast/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ultimateebeast/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/ultimateebeast/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0874-backspace-string-compare](https://github.com/ultimateebeast/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0941-sort-array-by-parity](https://github.com/ultimateebeast/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ultimateebeast/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/ultimateebeast/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/ultimateebeast/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/ultimateebeast/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/ultimateebeast/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ultimateebeast/Leetcode/tree/master/0455-assign-cookies) |
+| [0941-sort-array-by-parity](https://github.com/ultimateebeast/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ultimateebeast/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1752-arithmetic-subarrays](https://github.com/ultimateebeast/Leetcode/tree/master/1752-arithmetic-subarrays) |
