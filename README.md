@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ultimateebeast/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ultimateebeast/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/ultimateebeast/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ultimateebeast/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/ultimateebeast/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ultimateebeast/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ultimateebeast/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1477-product-of-the-last-k-numbers](https://github.com/ultimateebeast/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ultimateebeast/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/ultimateebeast/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ultimateebeast/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/ultimateebeast/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ultimateebeast/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ultimateebeast/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ultimateebeast/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/ultimateebeast/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/ultimateebeast/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ultimateebeast/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ultimateebeast/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
