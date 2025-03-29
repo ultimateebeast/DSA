@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ultimateebeast/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/ultimateebeast/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ultimateebeast/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ultimateebeast/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ultimateebeast/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3533-snake-in-matrix](https://github.com/ultimateebeast/Leetcode/tree/master/3533-snake-in-matrix) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ultimateebeast/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Counting
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2434-design-a-number-container-system](https://github.com/ultimateebeast/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ultimateebeast/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ultimateebeast/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ultimateebeast/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ultimateebeast/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ultimateebeast/Leetcode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/ultimateebeast/Leetcode/tree/master/3533-snake-in-matrix) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ultimateebeast/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
