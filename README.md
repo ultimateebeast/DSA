@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3412-permutation-difference-between-two-strings](https://github.com/ultimateebeast/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ultimateebeast/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/ultimateebeast/Leetcode/tree/master/3447-clear-digits) |
+| [3533-snake-in-matrix](https://github.com/ultimateebeast/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Array
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3429-special-array-i](https://github.com/ultimateebeast/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ultimateebeast/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ultimateebeast/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3533-snake-in-matrix](https://github.com/ultimateebeast/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Counting
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ultimateebeast/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ultimateebeast/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ultimateebeast/Leetcode/tree/master/3447-clear-digits) |
+| [3533-snake-in-matrix](https://github.com/ultimateebeast/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Two Pointers
 |  |
 | ------- |
