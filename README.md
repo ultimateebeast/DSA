@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1146-greatest-common-divisor-of-strings](https://github.com/ultimateebeast/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ultimateebeast/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ultimateebeast/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ultimateebeast/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ultimateebeast/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/ultimateebeast/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ultimateebeast/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/ultimateebeast/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ultimateebeast/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/ultimateebeast/Leetcode/tree/master/0389-find-the-difference) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ultimateebeast/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ultimateebeast/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ultimateebeast/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ultimateebeast/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
