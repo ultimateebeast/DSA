@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/ultimateebeast/Leetcode/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/ultimateebeast/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ultimateebeast/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/ultimateebeast/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ultimateebeast/Leetcode/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ultimateebeast/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ultimateebeast/Leetcode/tree/master/0792-binary-search) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/ultimateebeast/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ultimateebeast/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ultimateebeast/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/ultimateebeast/Leetcode/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ultimateebeast/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ultimateebeast/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search Tree
