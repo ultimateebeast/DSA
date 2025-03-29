@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/ultimateebeast/Leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/ultimateebeast/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ultimateebeast/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0917-boats-to-save-people](https://github.com/ultimateebeast/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/ultimateebeast/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/ultimateebeast/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0874-backspace-string-compare](https://github.com/ultimateebeast/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0917-boats-to-save-people](https://github.com/ultimateebeast/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/ultimateebeast/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ultimateebeast/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/ultimateebeast/Leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/ultimateebeast/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ultimateebeast/Leetcode/tree/master/0455-assign-cookies) |
+| [0917-boats-to-save-people](https://github.com/ultimateebeast/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/ultimateebeast/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/ultimateebeast/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/ultimateebeast/Leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/ultimateebeast/Leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/ultimateebeast/Leetcode/tree/master/0455-assign-cookies) |
+| [0917-boats-to-save-people](https://github.com/ultimateebeast/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ultimateebeast/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ultimateebeast/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ultimateebeast/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
