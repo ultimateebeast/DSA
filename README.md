@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/ultimateebeast/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ultimateebeast/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ultimateebeast/Leetcode/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/ultimateebeast/Leetcode/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/ultimateebeast/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/ultimateebeast/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0633-sum-of-square-numbers](https://github.com/ultimateebeast/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/ultimateebeast/Leetcode/tree/master/0319-bulb-switcher) |
 | [2481-strictly-palindromic-number](https://github.com/ultimateebeast/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Design
 |  |
