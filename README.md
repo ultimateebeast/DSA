@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1341-split-a-string-in-balanced-strings](https://github.com/ultimateebeast/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ultimateebeast/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ultimateebeast/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ultimateebeast/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/ultimateebeast/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ultimateebeast/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ultimateebeast/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/ultimateebeast/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ultimateebeast/Leetcode/tree/master/0155-min-stack) |
 | [0874-backspace-string-compare](https://github.com/ultimateebeast/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ultimateebeast/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ultimateebeast/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/ultimateebeast/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ultimateebeast/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
