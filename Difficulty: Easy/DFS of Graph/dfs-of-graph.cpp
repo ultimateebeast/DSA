@@ -1,65 +1,26 @@
-//{ Driver Code Starts
-#include <bits/stdc++.h>
-using namespace std;
-
-
-// } Driver Code Ends
 class Solution {
-  private:
-    void dfs(int node, vector<bool>&vis, vector<int>&res, vector<vector<int>>&adj){
-        vis[node] = true;
-        res.push_back(node);
-        
-        for(int val : adj[node]){
-            if(!vis[val]){
-                vis[val] = true;
-                dfs(val,vis,res,adj);
-            }
-        }
-    }
   public:
-    vector<int> dfsOfGraph(vector<vector<int>>& adj) {
-        int size = adj.size();
-        vector<bool>vis(size,false);
+    vector<int> dfs(vector<vector<int>>& adj) {
+        // Code here
+        int n = adj.size();
         vector<int>res;
+        vector<bool>vis(n,false);
         
-        for(int i=0;i<size;i++){
-            if(!vis[i]){
-                dfs(i,vis,res,adj);
-            }
-        }
+        helper(0, adj, res, vis);
         return res;
     }
+    
+    private:
+        void helper(int node, vector<vector<int>>& adj, vector<int>& res, vector<bool>& vis){
+            if(vis[node]) return ;
+            
+            vis[node] = true;
+            res.push_back(node);
+            
+            for(int val : adj[node]){
+                if(!vis[val]){
+                    helper(val, adj, res, vis);
+                }
+            }
+        }
 };
-
-//{ Driver Code Starts.
-
-int main() {
-    int tc;
-    cin >> tc;
-    while (tc--) {
-        int V, E;
-        cin >> V >> E;
-
-        vector<vector<int>> adj(
-            V); // Use vector of vectors instead of array of vectors.
-
-        for (int i = 0; i < E; i++) {
-            int u, v;
-            cin >> u >> v;
-            adj[u].push_back(v);
-            adj[v].push_back(u);
-        }
-
-        Solution obj;
-        vector<int> ans = obj.dfsOfGraph(adj);
-        for (int i = 0; i < ans.size(); i++) {
-            cout << ans[i] << " ";
-        }
-        cout << endl;
-        cout << "~" << endl;
-    }
-    return 0;
-}
-
-// } Driver Code Ends
