@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0057-insert-interval](https://github.com/ultimateebeast/Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/ultimateebeast/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0119-pascals-triangle-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ultimateebeast/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ultimateebeast/Leetcode/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0137-single-number-ii) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ultimateebeast/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/ultimateebeast/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0119-pascals-triangle-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ultimateebeast/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/ultimateebeast/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/ultimateebeast/Leetcode/tree/master/0392-is-subsequence) |
