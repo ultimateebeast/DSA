@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/ultimateebeast/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ultimateebeast/Leetcode/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ultimateebeast/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/ultimateebeast/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ultimateebeast/Leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/ultimateebeast/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ultimateebeast/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/ultimateebeast/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ultimateebeast/Leetcode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/ultimateebeast/Leetcode/tree/master/0542-01-matrix) |
+| [0747-min-cost-climbing-stairs](https://github.com/ultimateebeast/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ultimateebeast/Leetcode/tree/master/1013-fibonacci-number) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ultimateebeast/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Graph
