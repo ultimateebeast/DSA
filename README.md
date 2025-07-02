@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/ultimateebeast/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ultimateebeast/Leetcode/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/ultimateebeast/Leetcode/tree/master/0060-permutation-sequence) |
+| [0067-add-binary](https://github.com/ultimateebeast/Leetcode/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/ultimateebeast/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ultimateebeast/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/ultimateebeast/Leetcode/tree/master/0204-count-primes) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/ultimateebeast/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ultimateebeast/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/ultimateebeast/Leetcode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/ultimateebeast/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ultimateebeast/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ultimateebeast/Leetcode/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ultimateebeast/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/ultimateebeast/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/ultimateebeast/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ultimateebeast/Leetcode/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/ultimateebeast/Leetcode/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ultimateebeast/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ultimateebeast/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/ultimateebeast/Leetcode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/ultimateebeast/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ultimateebeast/Leetcode/tree/master/0191-number-of-1-bits) |
