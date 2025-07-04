@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2128-reverse-prefix-of-word](https://github.com/ultimateebeast/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ultimateebeast/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ultimateebeast/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ultimateebeast/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3396-valid-word](https://github.com/ultimateebeast/Leetcode/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ultimateebeast/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ultimateebeast/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ultimateebeast/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ultimateebeast/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ultimateebeast/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ultimateebeast/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/ultimateebeast/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ultimateebeast/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ultimateebeast/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1341-split-a-string-in-balanced-strings](https://github.com/ultimateebeast/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/ultimateebeast/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ultimateebeast/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ultimateebeast/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Stack
 |  |
 | ------- |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1013-fibonacci-number](https://github.com/ultimateebeast/Leetcode/tree/master/1013-fibonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/ultimateebeast/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ultimateebeast/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ultimateebeast/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Graph
 |  |
 | ------- |
