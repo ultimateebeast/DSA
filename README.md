@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ultimateebeast/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ultimateebeast/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ultimateebeast/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1764-maximum-repeating-substring](https://github.com/ultimateebeast/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1894-merge-strings-alternately](https://github.com/ultimateebeast/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ultimateebeast/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ultimateebeast/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0459-repeated-substring-pattern](https://github.com/ultimateebeast/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/ultimateebeast/Leetcode/tree/master/0686-repeated-string-match) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ultimateebeast/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1764-maximum-repeating-substring](https://github.com/ultimateebeast/Leetcode/tree/master/1764-maximum-repeating-substring) |
 ## Brainteaser
 |  |
 | ------- |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/ultimateebeast/Leetcode/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/ultimateebeast/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ultimateebeast/Leetcode/tree/master/1013-fibonacci-number) |
+| [1764-maximum-repeating-substring](https://github.com/ultimateebeast/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ultimateebeast/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Graph
 |  |
