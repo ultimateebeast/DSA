@@ -717,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/ultimateebeast/Leetcode/tree/master/0182-duplicate-emails) |
+| [1523-capital-gainloss](https://github.com/ultimateebeast/Leetcode/tree/master/1523-capital-gainloss) |
 | [3530-odd-and-even-transactions](https://github.com/ultimateebeast/Leetcode/tree/master/3530-odd-and-even-transactions) |
 | [3816-dna-pattern-recognition](https://github.com/ultimateebeast/Leetcode/tree/master/3816-dna-pattern-recognition) |
 ## Memoization
