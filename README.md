@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/ultimateebeast/Leetcode/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/ultimateebeast/Leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/ultimateebeast/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/ultimateebeast/Leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/ultimateebeast/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ultimateebeast/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/ultimateebeast/Leetcode/tree/master/0204-count-primes) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ultimateebeast/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/ultimateebeast/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/ultimateebeast/Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ultimateebeast/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/ultimateebeast/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ultimateebeast/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ultimateebeast/Leetcode/tree/master/1013-fibonacci-number) |
 ## Queue
 |  |
