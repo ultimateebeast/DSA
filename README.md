@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/ultimateebeast/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/ultimateebeast/Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/ultimateebeast/Leetcode/tree/master/0067-add-binary) |
+| [0131-palindrome-partitioning](https://github.com/ultimateebeast/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ultimateebeast/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/ultimateebeast/Leetcode/tree/master/0179-largest-number) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0077-combinations](https://github.com/ultimateebeast/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ultimateebeast/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/ultimateebeast/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0800-letter-case-permutation](https://github.com/ultimateebeast/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1160-letter-tile-possibilities](https://github.com/ultimateebeast/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ultimateebeast/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/ultimateebeast/Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ultimateebeast/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/ultimateebeast/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/ultimateebeast/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/ultimateebeast/Leetcode/tree/master/0322-coin-change) |
