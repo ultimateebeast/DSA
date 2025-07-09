@@ -1,27 +1,27 @@
 class Solution {
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> dp;
-        vector<int> comb;
+        vector<vector<int>> res;
+        vector<int> pth;
 
         sort(candidates.begin(), candidates.end());
-        sol(candidates, target, dp, comb, 0);
-        
-        return dp;
+        backtrack(candidates, 0, res, pth, target);
+
+        return res;
     }
 private:
-    void sol(vector<int>& candidates, int target, vector<vector<int>>& dp, vector<int>& comb, int idx){
+    void backtrack(vector<int> &candidates, int idx, vector<vector<int>> &res, vector<int> &pth, int target){
         if(target == 0){
-            dp.push_back(comb);
+            res.push_back(pth);
             return;
         }
 
         if(target < 0) return;
 
         for(int i = idx; i < candidates.size(); i++){
-            comb.push_back(candidates[i]);
-            sol(candidates, target - candidates[i], dp, comb, i);
-            comb.pop_back();
+            pth.push_back(candidates[i]);
+            backtrack(candidates, i, res, pth, target - candidates[i]);
+            pth.pop_back();
         }
     }
 };
