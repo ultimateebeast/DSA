@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/ultimateebeast/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ultimateebeast/Leetcode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ultimateebeast/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ultimateebeast/Leetcode/tree/master/0049-group-anagrams) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ultimateebeast/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/ultimateebeast/Leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/ultimateebeast/Leetcode/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/ultimateebeast/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ultimateebeast/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/ultimateebeast/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ultimateebeast/Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/ultimateebeast/Leetcode/tree/master/0119-pascals-triangle-ii) |
