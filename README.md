@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0423-reconstruct-original-digits-from-english](https://github.com/ultimateebeast/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0451-sort-characters-by-frequency](https://github.com/ultimateebeast/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/ultimateebeast/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0516-longest-palindromic-subsequence](https://github.com/ultimateebeast/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ultimateebeast/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0686-repeated-string-match](https://github.com/ultimateebeast/Leetcode/tree/master/0686-repeated-string-match) |
 | [0800-letter-case-permutation](https://github.com/ultimateebeast/Leetcode/tree/master/0800-letter-case-permutation) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/ultimateebeast/Leetcode/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/ultimateebeast/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/ultimateebeast/Leetcode/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/ultimateebeast/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/ultimateebeast/Leetcode/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/ultimateebeast/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ultimateebeast/Leetcode/tree/master/1013-fibonacci-number) |
